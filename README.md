@@ -5,7 +5,7 @@
 <title>Didik TV KPM</title>
 <style>
 body {
-background: black;
+background-image: url('https://raw.githubusercontent.com/budaksixteen16/test/master/neon.jpg');
 color: black;
 }
 </style>
